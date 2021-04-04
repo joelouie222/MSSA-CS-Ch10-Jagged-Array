@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISTA 421 EX CS Ch10 LC1672", "ISTA 421 EX CS Ch10 LC1672\ISTA 421 EX CS Ch10 LC1672.csproj", "{13EFA3D1-2666-4096-B866-FA8CDC13E365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13EFA3D1-2666-4096-B866-FA8CDC13E365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EFA3D1-2666-4096-B866-FA8CDC13E365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EFA3D1-2666-4096-B866-FA8CDC13E365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EFA3D1-2666-4096-B866-FA8CDC13E365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36F9B1A-3F15-45CE-9DBF-EC85A68EDA2F}
+	EndGlobalSection
+EndGlobal
