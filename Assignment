@@ -1,5 +1,12 @@
-This Method takes a 2-dimensional, jagged array of ints. This array represents how much money each customer has in each of his/her accounts. The first dimension of the array represents each Customer. The second dimension of the array represents the Balance in each of that customer's accounts.
+This Method takes a 2-dimensional, jagged array of ints. 
+This array represents how much money each customer has in each of his/her accounts. 
+The first dimension of the array represents each Customer. 
+The second dimension of the array represents the Balance in each of that customer's accounts.
 
-For example, the first customer (customer #0) might have three accounts: accounts[0][0] = 100, accounts[0][1] = 200, and accounts[0][2] = 300. This customer has a total of 600 (dollars). The second customer (customer #1) might have only one account: accounts[1][0] = 500. This customer has a total of 500 (dollars). And the third customer (customer #2) might have four accounts: accounts[2][0] = 400, accounts[2][1] = 600, accounts[2][2] = 500, and accounts[2][3] = 0. This customer has a total of 1,500 (dollars).
+For example, the first customer (customer #0) might have three accounts: accounts[0][0] = 100, accounts[0][1] = 200, and accounts[0][2] = 300. 
+This customer has a total of 600 (dollars). The second customer (customer #1) might have only one account: accounts[1][0] = 500. 
+This customer has a total of 500 (dollars). 
+And the third customer (customer #2) might have four accounts: accounts[2][0] = 400, accounts[2][1] = 600, accounts[2][2] = 500, and accounts[2][3] = 0. 
+This customer has a total of 1,500 (dollars).
 
 If your method is given the input described above, it should return that the wealthiest customer has 1,500 (dollars).
